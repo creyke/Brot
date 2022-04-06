@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "brot": {
+      "commandName": "Project",
+      "commandLineArgs": "foo"
+    }
+  }
+}
